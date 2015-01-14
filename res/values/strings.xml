@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">cacheTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_title">TestTitle</string>
+    <string name="about_message">test message</string>
+    <string name="ok_label">OK</string>
+    <string name="homepage_label">Home</string>
+    <string name="homepage_uri">http://www.baidu.com</string>
+
+</resources>
